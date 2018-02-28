@@ -108,7 +108,7 @@
 	      selectedVideo: null
 	    };
 
-	    _this.videoSearch('timthetatman fornite');
+	    _this.videoSearch('react and redux');
 	    return _this;
 	  }
 
